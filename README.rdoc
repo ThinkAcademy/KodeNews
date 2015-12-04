@@ -1,28 +1,5 @@
-== README
+== README KODENEWS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+These are the project files for the KODENEWS application. You can find the tutorial that explains how to install and build this application at [Visit Think Academy!](http://thinkacademy.io/courses/learn%20ruby%20on%20rails%20by%20building%20a%20hacker%20news%20clone)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Thank you. 
